@@ -1,0 +1,18 @@
+{
+  "id":"DMEGR",
+  "name":"Assault-Mikoyan Gun Realignment",
+  "author":"that one guy",
+  "version":"1.0.0",
+  "description":"Makes the update palatable",
+  "gameVersion":"0.95a-RC15",
+  "jars":["jars/DMEGR.jar"],
+  "dependencies":[
+    {"id":"istl_dassaultmikoyan", "name":"Dassault-Mikoyan Engineering"}
+],
+  "replace": [
+    "data\\hulls\\skins\\istl_wildgoose.skin",
+	"data\\hulls\\istl_blacklancer.ship",
+	"data\\hulls\\istl_imp.ship",
+	"data\\hulls\\istl_spearhead.ship"
+]
+}
