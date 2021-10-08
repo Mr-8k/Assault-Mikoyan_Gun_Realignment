@@ -9,6 +9,8 @@ Linear Cannon,istl_linearcannon,1,0.2,400,700,,75,,5,50,7,,,,KINETIC,63.75,,,1.2
 Twin Linear Cannon,istl_linearcannontwin,2,0.2,1250,800,,75,,5,35,12,,,,KINETIC,67.5,,,1.76,3,0.12,1,12,1,15,,1000,,,75,,,,"kinetic12, dmeadv_bp, dmeballistic_bp",,Dassault-Mikoyan,,Anti Shield,,,,,,,,,,14
 Heavy Linear Cannon,istl_linearcannonheavy,2,,7500,900,,150,,20,20,24,,,,KINETIC,150,,,1.85,3,0.2,1,12,1,15,,1000,,,150,,,,"kinetic18, dmeadv_bp, dmeballistic_bp",,Dassault-Mikoyan,,Anti Shield,,,,,Charged kinetic rounds do %s energy damage on hits to armor or hull.,40,,,,15
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Assault Rail Accelerator,istl_9cmrailgun,3,0.5,4500,800,,150,,20,12,14,,,,KINETIC,180,,0.45,2.25,3,0.15,1,7,1,10,,1600,,,180,0.1,,,"kinetic14, LR, sixthbureau_bp, istl_snri",,SNRI Labs,,Anti Shield,,,,,%s improve the chances of a hit on fast targets.,Hypervelocity projectiles,,,,17
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 #Blade Breakers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Scatterbolt Burst,istl_thermalpd,1,0.5,1500,400,,50,,0,90,8,,,,ENERGY,40,,0.1,1.2467,5,0.08,3,10,2,15,,800,,,,0.3,,"PD, PD_ALSO","pd7, SR, restricted, bladebreakers",,Blade Breakers,,Point Defense,,,,,,,,,,85
 Unstable Pulse Mortar,istl_thermalmortar,3,0.5,12500,1200,,300,,0,30,16,6,0.5,3,HIGH_EXPLOSIVE,300,,0.1,0.2,3,0.3,1,6,3,5,,300,,,,,,"STRIKE, USE_VS_FRIGATES, GROUP_ALTERNATING","energy18, LR, restricted, bladebreakers",,Blade Breakers,,Pressure,,,,,Guided %s track enemy ships to impact.,smart-pulses,,,,86

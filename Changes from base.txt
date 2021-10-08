@@ -9,7 +9,9 @@ Weapons:
 -Large linear cannon regains on-hit
 -Long-rod penetrator type weapons efficiency increased by at least 0.1, depending on the weapon
 -Restricted tag removed from BB guns, bathe in useful drop rates
+-Restricted tag removed from Assault Rail Accelerator
 
 Hullmods:
 -BB hullmods now unlocked by default
 -BB ships with the automated hullmod now use their own version that doesn't affect recovered remnant ship DP
+-BB assault hullmod description is now accurate

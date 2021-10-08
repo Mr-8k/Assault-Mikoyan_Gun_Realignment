@@ -1,0 +1,5 @@
+1.0.1
+
+-Restricted tag removed from Assault Rail Accelerator
+-Puddle Jumper and Sevastopol mk1 variants have regained their tags and are now obtainable again
+-BB assault hullmod description is now accurate
