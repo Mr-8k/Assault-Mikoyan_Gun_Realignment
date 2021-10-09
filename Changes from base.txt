@@ -4,7 +4,7 @@ Ships:
 Alauda, Brave Blade, every BB ship that isn't a station (no Preceptor or Acolyte), Wild Goose
 -Added Alauda as a one-time spawn in prism
 -Puddle Jumper and Sevastopol mk1 variants have regained their tags and are now obtainable again
-(their tags were forgotten when they wer converted to skins)
+(their tags were forgotten when they were converted to skins)
 
 Weapons:
 
