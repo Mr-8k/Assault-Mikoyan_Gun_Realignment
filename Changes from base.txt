@@ -2,6 +2,7 @@ Ships:
 
 -Made recoverable:
 Alauda, Brave Blade, every BB ship that isn't a station (no Preceptor or Acolyte), Wild Goose
+-Added Alauda as a one-time spawn in prism (I think)
 
 Weapons:
 
