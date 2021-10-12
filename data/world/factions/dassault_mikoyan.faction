@@ -1,0 +1,10 @@
+{
+	"knownWeapons":{
+		"tags":["sixthbureau_bp"],
+
+	},
+	"priorityWeapons":{
+		"tags":["sixthbureau_bp"],
+	},
+	
+},

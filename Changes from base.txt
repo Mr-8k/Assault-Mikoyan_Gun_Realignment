@@ -11,8 +11,7 @@ Weapons:
 -Linear cannon line efficiency changed (sizes, S/M/L) from 1.0 to 0.85/0.9/1.0
 -Large linear cannon regains on-hit
 -Long-rod penetrator type weapons efficiency changed to 1.1, 1.2 for the Whistler Jetrifle as that is a burst weapon
--Restricted tag removed from BB guns, bathe in useful drop rates
--Restricted tag removed from Assault Rail Accelerator
+-DME now knows 6th bureau weapon blueprint (singular since all they were missing was the Assault rail accelerator)
 
 Hullmods:
 -BB hullmods now unlocked by default

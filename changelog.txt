@@ -1,6 +1,11 @@
+1.0.2
+
+-DME now knows 6th bureau weapon blueprint (singular since all they were missing was the Assault rail accelerator)
+-Restricted tags re-added (the joke is that I forgot to remove them in the first place, and they weren't impeding anything)
+
 1.0.1
 
--Restricted tag removed from Assault Rail Accelerator
+-Restricted tag removed from Assault Rail Accelerator (to allow raiding it as a blueprint)
 -Puddle Jumper and Sevastopol mk1 variants have regained their tags and are now obtainable again
 (their tags were forgotten when they were converted to skins)
 -BB assault hullmod description is now accurate
