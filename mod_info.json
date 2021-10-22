@@ -2,7 +2,7 @@
   "id":"DMEGR",
   "name":"Assault-Mikoyan Gun Realignment",
   "author":"that one guy",
-  "version":"1.0.2",
+  "version":"1.0.3",
   "description":"Makes the update palatable",
   "gameVersion":"0.95a-RC15",
   "jars":["jars/DMEGR.jar"],
@@ -13,6 +13,7 @@
     "data\\hulls\\skins\\istl_wildgoose.skin",
 	"data\\hulls\\istl_blacklancer.ship",
 	"data\\hulls\\istl_imp.ship",
-	"data\\hulls\\istl_spearhead.ship"
+	"data\\hulls\\istl_spearhead.ship",
+	"data\\hulls\\istl_warlock.ship"
 ]
 }

@@ -1,20 +1,21 @@
 name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,c/s,c/f,f/s,f/f,crew/s,crew/f,hints,tags,rarity,breakProb,minPieces,maxPieces,travel drive,number
 #Alauda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Alauda,istlx_alauda,Striker,SNRI Labs,istl_pulsejets,15,1200,400,3600,3000,420,45,,210,250,225,120,360,180,FRONT,,360,0.2,0.8,,,5,25,20,10,1,20,12,1000000,10,20,240,0.2,12,12,,,,,,,"SHIP_WITH_MODULES, HIDE_IN_CODEX","no_sell, no_dealer, istl_snri",,0.75,2,3,,206
+Alauda,istlx_alauda,Striker,SNRI Labs,istl_alaudadash,15,1200,400,3600,3000,420,45,,210,250,250,120,300,180,FRONT,,360,0.2,0.8,,,5,25,20,10,1,20,12,1000000,10,20,240,0.2,12,12,,,,,,,"SHIP_WITH_MODULES, HIDE_IN_CODEX","no_sell, no_dealer, istl_snri",,0.75,2,3,,206
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 #Blade Breakers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Imp,istl_imp,Drone Frigate,Blade Breakers,istl_BBstutterdrive_sm,3,1600,500,1400,1000,200,40,,150,240,160,90,180,100,NONE,,0,0,0,,,0,0,40,40,1,40,11,32000,5,12,300,0.25,3,3,,,,,,,HIDE_IN_CODEX,bladebreakers,,0.5,2,2,,217
 Snake Eye,istl_snakeeye,Gunship,Blade Breakers,istl_bravebit_single,7,2400,325,3200,3125,320,50,,120,240,160,90,210,200,FRONT,,270,0.2,0.8,,,5,10,60,40,1,40,11,108000,5,10,360,0.25,7,7,,,,,,,HIDE_IN_CODEX,bladebreakers,,0.4,2,2,,227
-Black Hand,istl_blackhand,Drone Tender,Blade Breakers,istl_BBebeam_drones,9,3000,300,3200,3000,240,45,,90,75,30,60,90,270,OMNI,,180,0.2,0.8,,,25,40,20,40,1,40,9,144000,5,20,320,0.15,9,9,,,,,,,HIDE_IN_CODEX,bladebreakers,,0.4,2,3,,217
+Black Hand,istl_blackhand,Drone Tender,Blade Breakers,istl_BBebeam_drones,9,2800,600,3200,3000,240,45,,90,75,30,60,90,270,PHASE,istl_damper,0,0,0,0.04,0.04,25,40,20,40,1,40,9,144000,5,20,320,0.15,9,9,,,,,,,HIDE_IN_CODEX,bladebreakers,,0.4,2,3,,217
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Spearhead,istl_spearhead,Destroyer,Blade Breakers,istl_BBpulsejets,14,6000,450,6800,3750,420,120,,90,75,50,30,50,500,OMNI,,150,0.4,1,,,0,0,80,60,2,30,10,120000,5,15,420,0.25,18,18,,,,,,,HIDE_IN_CODEX,bladebreakers,,0.5,2,3,,508
 Devil Ray,istl_devilray,Phase Destroyer,Blade Breakers,istl_sigmadisruptor,20,4800,600,8000,10000,480,105,,90,60,40,60,40,450,PHASE,istl_BBphasecloak,,,,0.05,0.05,30,60,50,100,2,50,9,150000,5,20,300,0.25,27,27,,,,,,,"HIDE_IN_CODEX, PHASE",bladebreakers,,0.5,2,3,,506
-Curse,istl_curse,Stealth Carrier,Blade Breakers,istl_heavyburn,10,5200,500,3600,2800,360,110,2,75,50,30,25,25,450,OMNI,,180,0.2,1,,,50,90,75,50,2,25,10,100000,5,20,420,0.2,18,18,,,,,,,HIDE_IN_CODEX,bladebreakers,,0.5,2,3,,507
-Spearhead,istl_spearhead,Destroyer,Blade Breakers,istl_BBpulsejets,14,6000,450,6800,3750,420,140,,90,75,50,30,50,500,OMNI,,150,0.4,1,,,0,0,80,60,2,30,10,120000,5,15,420,0.25,18,18,,,,,,,HIDE_IN_CODEX,bladebreakers,,0.5,2,3,,508
+Curse,istl_curse,Stealth Carrier,Blade Breakers,istl_heavyburn,12,5200,500,3600,2800,360,110,2,75,50,30,25,25,450,OMNI,,180,0.2,1,,,50,90,75,50,2,25,10,100000,5,20,420,0.2,18,18,,,,,,,HIDE_IN_CODEX,bladebreakers,,0.5,2,3,,507
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Black Lancer,istl_blacklancer,Cruiser,Blade Breakers,istl_BBpulsejets,20,8400,900,10800,16000,800,170,,75,50,25,25,25,1800,FRONT,,300,0.2,0.8,,,0,0,100,100,3,30,8,210000,4,20,420,0.25,25,25,,,,,,,HIDE_IN_CODEX,bladebreakers,,0.6,2,3,,405
-Sparrowhawk,istl_stormkestrel,Escort Cruiser,Blade Breakers,istl_BBstutterdrive,24,7200,750,12000,7000,600,145,2,70,64,48,20,30,900,OMNI,,150,0.2,0.8,,,100,180,120,100,3,33,9,280000,3,15,480,0.25,28,28,,,,,,,HIDE_IN_CODEX,bladebreakers,,0.5,3,5,,400
-Warlock,istl_warlock,Carrier,Blade Breakers,istl_sigmajaunt,28,10000,1500,12000,12000,540,300,4,40,20,15,9,8,3000,OMNI,,180,0.2,0.8,,,350,750,200,300,10,40,8,1800000,4,15,840,0.2,40,40,,,,,,,"SHIP_WITH_MODULES, HIDE_IN_CODEX, CARRIER, COMBAT",bladebreakers,,0.4,3,5,,702
+Black Lancer,istl_blacklancer,Cruiser,Blade Breakers,istl_BBpulsejets,20,8000,900,10800,16000,720,170,,75,50,25,25,25,1800,FRONT,,300,0.2,0.8,,,0,0,100,100,3,30,8,210000,4,20,420,0.25,25,25,,,,,,,HIDE_IN_CODEX,bladebreakers,,0.6,2,3,,405
+Sparrowhawk,istl_stormkestrel,Escort Cruiser,Blade Breakers,istl_BBstutterdrive,24,7200,750,12000,7000,600,145,2,70,64,48,20,30,900,OMNI,,150,0.2,0.8,,,100,180,120,100,3,33,9,280000,3,15,480,0.25,30,30,,,,,,,HIDE_IN_CODEX,bladebreakers,,0.5,3,5,,400
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Warlock,istl_warlock,Carrier,Blade Breakers,istl_strikecommand,30,9600,1000,12000,12000,640,260,4,45,20,20,9,12,3000,OMNI,,180,0.2,0.8,,,0,0,200,300,10,40,8,1800000,4,15,720,0.2,50,50,,,,,,,"SHIP_WITH_MODULES, HIDE_IN_CODEX, CARRIER, COMBAT",bladebreakers,,0.4,3,5,,702
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 #Brave Blade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brave Blade,istlx_braveblade,Attacker,Deserter,istl_bravejets,15,1500,350,4000,3000,480,40,,225,250,225,120,360,180,FRONT,,360,0.2,0.8,,,5,25,20,10,1,20,12,1000000,10,20,240,0.2,12,12,,,,,,,"SHIP_WITH_MODULES, HIDE_IN_CODEX","no_sell, no_dealer",,0.75,2,3,,206
+Brave Blade,istlx_braveblade,Attacker,Deserter,istl_bravejets,15,1500,350,4000,3000,480,40,,225,250,225,135,300,180,FRONT,,360,0.2,0.8,,,5,25,20,10,1,20,12,1000000,10,20,240,0.2,12,12,,,,,,,"SHIP_WITH_MODULES, HIDE_IN_CODEX","no_sell, no_dealer",,0.75,2,3,,206

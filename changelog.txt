@@ -1,3 +1,9 @@
+1.0.3
+
+-Removed ship skin tag fix, it was fixed
+-Warlock gains the new automated hullmod instead of the standard one
+-Small linear cannon regains old bp tags, this just isnt a special weapon
+
 1.0.2
 
 -DME now knows 6th bureau weapon blueprint (singular since all they were missing was the Assault rail accelerator)
