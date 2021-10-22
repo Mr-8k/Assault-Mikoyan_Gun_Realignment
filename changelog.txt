@@ -4,6 +4,9 @@
 -Warlock gains the new automated hullmod instead of the standard one
 -Small linear cannon regains old bp tags, this just isnt a special weapon
 
+hotfix a:
+-Removed BP tags from alauda built-ins
+
 1.0.2
 
 -DME now knows 6th bureau weapon blueprint (singular since all they were missing was the Assault rail accelerator)
