@@ -92,7 +92,7 @@
   "builtInMods": [
     "istl_bbengineering",
     "DMEGR_automated",
-    "do_not_back_off"
+    #"do_not_back_off"
   ],
   "builtInWeapons": {
     "WS0011": "blinker_red",

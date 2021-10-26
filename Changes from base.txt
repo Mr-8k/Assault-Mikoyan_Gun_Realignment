@@ -3,6 +3,7 @@ Ships:
 -Made recoverable:
 Alauda, Brave Blade, every BB ship that isn't a station (no Preceptor or Acolyte), Wild Goose
 -Added Alauda as a one-time spawn in prism
+-do_not_back_off tag removed from any ship that had it (several BB ships, alauda)
 
 Weapons:
 
@@ -11,6 +12,7 @@ Weapons:
 -Large linear cannon regains on-hit
 -Long-rod penetrator type weapons efficiency changed to 1.1, 1.2 for the Whistler Jetrifle as that is a burst weapon
 -DME now knows 6th bureau weapon blueprint (singular since all they were missing was the Assault rail accelerator)
+-Removed BP tags from Alauda built-ins
 
 Hullmods:
 -BB hullmods now unlocked by default
