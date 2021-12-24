@@ -1,3 +1,9 @@
+1.0.5
+-changes for new imp sprite
+-removed some now unnecessary changes
+-changes to howler cannon ported
+-neural link integration ported
+
 1.0.4
 
 -do_not_back_off tag removed from any ship that had it (several BB ships, alauda), this will only take effect after stripping your ship if upgrading from 1.0.3 or below

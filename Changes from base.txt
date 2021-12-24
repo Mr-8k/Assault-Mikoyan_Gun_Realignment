@@ -12,9 +12,9 @@ Weapons:
 -Large linear cannon regains on-hit
 -Long-rod penetrator type weapons efficiency changed to 1.1, 1.2 for the Whistler Jetrifle as that is a burst weapon
 -DME now knows 6th bureau weapon blueprint (singular since all they were missing was the Assault rail accelerator)
--Removed BP tags from Alauda built-ins
+-Removed BP tags from Alauda built-ins - no longer needed
 
 Hullmods:
 -BB hullmods now unlocked by default
 -BB ships with the automated hullmod now use their own version that doesn't affect recovered remnant ship DP
--BB assault hullmod description is now accurate
+-BB assault hullmod description is now accurate - no longer needed

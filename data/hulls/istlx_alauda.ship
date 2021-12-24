@@ -59,6 +59,7 @@
     "istl_monobloc",
     "solar_shielding",
     #"do_not_back_off"
+	"neural_interface"
   ],
   "builtInWeapons": {
     "WS0001": "istl_alaudapulse",

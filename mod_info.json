@@ -2,9 +2,9 @@
   "id":"DMEGR",
   "name":"Assault-Mikoyan Gun Realignment",
   "author":"that one guy",
-  "version":"1.0.4",
+  "version":"1.0.5",
   "description":"Makes the update palatable",
-  "gameVersion":"0.95a-RC15",
+  "gameVersion":"0.95.1a-RC6",
   "jars":["jars/DMEGR.jar"],
   "dependencies":[
     {"id":"istl_dassaultmikoyan", "name":"Dassault-Mikoyan Engineering"}
