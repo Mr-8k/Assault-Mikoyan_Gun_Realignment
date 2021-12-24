@@ -48,7 +48,7 @@
   ],
   "builtInMods": [
     "istl_bbengineering",
-    "automated",
+    #"automated",
     #"do_not_back_off",
     "rugged",
 	"DMEGR_automated",
