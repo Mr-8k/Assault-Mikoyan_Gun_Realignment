@@ -1,10 +1,18 @@
 {
 	"knownWeapons":{
-		"tags":["sixthbureau_bp"],
+		"tags":["sixthbureau_bp","istl_snri1t","istl_snri2t","istl_snri3t","istl_snri4t"],
 
 	},
 	"priorityWeapons":{
-		"tags":["sixthbureau_bp"],
+		"tags":["sixthbureau_bp","istl_snri1t","istl_snri2t","istl_snri3t","istl_snri4t"],
 	},
 	
+	"knownShips":{
+	"tags":["hightech_bp", "dmecivil_bp", "dmecore_bp", "dmeadv_bp", "sixthbureau_bp", "istl_snri", "dassaultmikoyan","istl_snri1t","istl_snri2t","istl_snri3t","istl_snri4t","istl_snri_goose"],
+
+	},
+	
+	"knownFighters":{
+		"tags":["hightech_bp", "dmecivil_bp", "dmecore_bp", "dmeadv_bp", "istl_snri", "dassaultmikoyan","istl_snri1t","istl_snri2t","istl_snri3t","istl_snri4t"],
+	},
 },

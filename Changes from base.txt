@@ -7,14 +7,10 @@ Alauda, Brave Blade, every BB ship that isn't a station (no Preceptor or Acolyte
 
 Weapons:
 
--Linear cannon line efficiency changed (sizes, S/M/L) from 1.0 to 0.85/0.9/1.0
--Small linear cannon regains old bp tags, this just isnt a special weapon
--Large linear cannon regains on-hit
+-DME now knows all SNRI/6th bureau blueprints
+-Large linear cannon regains on-hit, range reverted to 1000
 -Long-rod penetrator type weapons efficiency changed to 1.1, 1.2 for the Whistler Jetrifle as that is a burst weapon
--DME now knows 6th bureau weapon blueprint (singular since all they were missing was the Assault rail accelerator)
--Removed BP tags from Alauda built-ins - no longer needed
 
 Hullmods:
 -BB hullmods now unlocked by default
 -BB ships with the automated hullmod now use their own version that doesn't affect recovered remnant ship DP
--BB assault hullmod description is now accurate - no longer needed

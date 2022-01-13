@@ -5,9 +5,9 @@ Howler Cannon,istl_howler,1,,2000,800,,275,,15,15,10,,,,HIGH_EXPLOSIVE,"302,5",,
 Whistler Jetrifle,istl_whistler,2,0.5,3600,700,,75,,10,20,12,12,2,6,HIGH_EXPLOSIVE,90,,,0.45,3,0.15,2,10,2,15,,1200,,,100,,,DO_NOT_CONSERVE,"he12, sixthbureau_bp, istl_snri, restricted",,SNRI Labs,,Anti Armor,,,,,Long-rod penetrator rounds deal an additional %s damage to armor. This damage is not reduced by armor.,25,,,,3
 Howlspear Strike Cannon,istl_hellspear,2,,4800,1200,,500,,75,5,20,,,,HIGH_EXPLOSIVE,550,,,3.3333,1,,1,6,2,10,,1000,,,600,,,"STRIKE, USE_VS_FRIGATES","he16, dmeadv_bp, dmeballistic_bp",,Dassault-Mikoyan,,Anti Armor,,,,,Long-rod penetrator rounds deal an additional %s damage to armor. This damage is not reduced by armor.,250,,,,4
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Linear Cannon,istl_linearcannon,1,0.2,400,700,,75,,5,50,7,,,,KINETIC,63.75,,,1.26,3,0.12,1,10,2,15,,1000,,,75,,,,"kinetic8, istl_snri, restricted, dmecore_bp, dmeballistic_bp",,SNRI Labs,,Anti Shield,,,,,,,,,,13
-Twin Linear Cannon,istl_linearcannontwin,2,0.2,1250,800,,75,,5,35,12,,,,KINETIC,67.5,,,1.76,3,0.12,1,12,1,15,,1000,,,75,,,,"kinetic12, dmeadv_bp, dmeballistic_bp",,Dassault-Mikoyan,,Anti Shield,,,,,,,,,,14
-Heavy Linear Cannon,istl_linearcannonheavy,2,,7500,900,,150,,20,20,24,,,,KINETIC,150,,,1.85,3,0.2,1,12,1,15,,1000,,,150,,,,"kinetic18, dmeadv_bp, dmeballistic_bp",,Dassault-Mikoyan,,Anti Shield,,,,,Charged kinetic rounds do %s energy damage on hits to armor or hull.,40,,,,15
+#Linear Cannon,istl_linearcannon,1,0.2,400,700,,75,,5,50,7,,,,KINETIC,63.75,,,1.26,3,0.12,1,10,2,15,,1000,,,75,,,,"kinetic8, istl_snri, restricted, dmecore_bp, dmeballistic_bp",,SNRI Labs,,Anti Shield,,,,,,,,,,13
+#Twin Linear Cannon,istl_linearcannontwin,2,0.2,1250,800,,75,,5,35,12,,,,KINETIC,67.5,,,1.76,3,0.12,1,12,1,15,,1000,,,75,,,,"kinetic12, dmeadv_bp, dmeballistic_bp",,Dassault-Mikoyan,,Anti Shield,,,,,,,,,,14
+Heavy Linear Cannon,istl_linearcannonheavy,2,,7500,1000,,150,,20,20,24,,,,KINETIC,150,,,1.85,3,0.2,1,12,1,15,,1000,,,150,,,,"kinetic18, dmeadv_bp, dmeballistic_bp",,Dassault-Mikoyan,,Anti Shield,,,,,Charged kinetic rounds do %s energy damage on hits to armor or hull.,40,,,,15
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 #Alauda Built-in,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 #Heavy Autolaser,istl_alaudapulse,3,,24000,700,,75,,1,60,10,24,4,3,ENERGY,50,,0.1,0.025,1,,,,,,,1450,,,75,,,SYSTEM,energy10,istl_ALAUDA_only,SNRI Labs,,General,,,,,,,,,,139

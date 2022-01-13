@@ -4,11 +4,11 @@
 	"hullName":"Wild Goose",
 	"descriptionId":"istl_snowgoose",
 	"descriptionPrefix":"Heavily-upgraded and stylishly marked, this ship is employed by the fearsome, shadowy Sixth Bureau to hunt down the enemies of the Dassault-Mikoyan corporation.",
-	"tags":["no_sell", "no_dealer", sixthbureau_bp],
+	"tags":["no_sell", "no_dealer", "restricted", "always_recoverable", "sixthbureau_bp"],
     "fleetPoints":22,
     "ordnancePoints":100,
     "baseValueMult":1.1,
-	"addHints":[HIDE_IN_CODEX],
+	"addHints":[UNBOARDABLE, HIDE_IN_CODEX],
 	"spriteName":"graphics/ISTL/ships/6e/istl_wildgoose.png",
 	"removeWeaponSlots":[], 		# ids
 	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file
