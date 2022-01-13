@@ -8,7 +8,7 @@
 	},
 	
 	"knownShips":{
-	"tags":["hightech_bp", "dmecivil_bp", "dmecore_bp", "dmeadv_bp", "sixthbureau_bp", "istl_snri", "dassaultmikoyan","istl_snri1t","istl_snri2t","istl_snri3t","istl_snri4t","istl_snri_goose"],
+		"tags":["hightech_bp", "dmecivil_bp", "dmecore_bp", "dmeadv_bp", "sixthbureau_bp", "istl_snri", "dassaultmikoyan","istl_snri1t","istl_snri2t","istl_snri3t","istl_snri4t","istl_snri_goose"],
 
 	},
 	

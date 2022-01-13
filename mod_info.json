@@ -2,7 +2,7 @@
   "id":"DMEGR",
   "name":"Assault-Mikoyan Gun Realignment",
   "author":"that one guy",
-  "version":"1.0.6",
+  "version":"1.0.6a",
   "description":"Makes the update palatable",
   "gameVersion":"0.95.1a-RC6",
   "jars":["jars/DMEGR.jar"],

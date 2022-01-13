@@ -2,6 +2,8 @@
 -large linear cannon reverted to 1000 range
 -removed changes to small/medium linear guns, as they were buffed
 -DME now knows all SNRI blueprints
+1.0.6a
+-fixed free to fire howler cannon
 
 1.0.5
 -changes for new imp sprite
